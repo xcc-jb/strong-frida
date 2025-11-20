@@ -37,3 +37,4 @@ https://github.com/qtfreet00/AntiFrida
 https://github.com/darvincisec/DetectFrida
 
 https://github.com/b-mueller/frida-detection-demo
+
